@@ -1,2 +1,2 @@
 # MERA-MITRA
-By Sumurth Dixit and Vikash Kumar Patel
+By Shubhanshi Dwivedi and Sumurth Dixit
